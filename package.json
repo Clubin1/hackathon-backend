@@ -1,0 +1,19 @@
+{
+  "name": "hackathon-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clubin1/hackathon-backend.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clubin1/hackathon-backend/issues"
+  },
+  "homepage": "https://github.com/Clubin1/hackathon-backend#readme"
+}
